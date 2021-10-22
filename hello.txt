@@ -1,6 +1,5 @@
 hello world can we meet tmr
-<<<<<<< HEAD
+
 then tei
-=======
+
 wht ank aan
->>>>>>> mishal
